@@ -23,4 +23,4 @@ El proyecto está organizado de la siguiente manera:
 
 ## Visualizar el proyecto
 
-Para visualizar este proyecto, puedes acceder al siguiente enlace: [Portafolio Web Challenge](https://galaxypliego.github.io/portfolio-web-one/)
+Para visualizar este proyecto, puedes acceder al siguiente enlace: [Portafolio Web Challenge](https://carlos-espipliego.github.io/portfolio-web/)
